@@ -1,0 +1,13 @@
+C:\ComIT\mini_pr_1\MiniProject1\bin\Debug\netcoreapp3.1\MiniProject1.exe
+C:\ComIT\mini_pr_1\MiniProject1\bin\Debug\netcoreapp3.1\MiniProject1.deps.json
+C:\ComIT\mini_pr_1\MiniProject1\bin\Debug\netcoreapp3.1\MiniProject1.runtimeconfig.json
+C:\ComIT\mini_pr_1\MiniProject1\bin\Debug\netcoreapp3.1\MiniProject1.runtimeconfig.dev.json
+C:\ComIT\mini_pr_1\MiniProject1\bin\Debug\netcoreapp3.1\MiniProject1.dll
+C:\ComIT\mini_pr_1\MiniProject1\bin\Debug\netcoreapp3.1\MiniProject1.pdb
+C:\ComIT\mini_pr_1\MiniProject1\obj\Debug\netcoreapp3.1\MiniProject1.csprojAssemblyReference.cache
+C:\ComIT\mini_pr_1\MiniProject1\obj\Debug\netcoreapp3.1\MiniProject1.csproj.CoreCompileInputs.cache
+C:\ComIT\mini_pr_1\MiniProject1\obj\Debug\netcoreapp3.1\MiniProject1.AssemblyInfoInputs.cache
+C:\ComIT\mini_pr_1\MiniProject1\obj\Debug\netcoreapp3.1\MiniProject1.AssemblyInfo.cs
+C:\ComIT\mini_pr_1\MiniProject1\obj\Debug\netcoreapp3.1\MiniProject1.dll
+C:\ComIT\mini_pr_1\MiniProject1\obj\Debug\netcoreapp3.1\MiniProject1.pdb
+C:\ComIT\mini_pr_1\MiniProject1\obj\Debug\netcoreapp3.1\MiniProject1.genruntimeconfig.cache
