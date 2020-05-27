@@ -1,0 +1,13 @@
+C:\Users\maryn\Documents\ComIT\Practice\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.exe
+C:\Users\maryn\Documents\ComIT\Practice\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.deps.json
+C:\Users\maryn\Documents\ComIT\Practice\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.runtimeconfig.json
+C:\Users\maryn\Documents\ComIT\Practice\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.runtimeconfig.dev.json
+C:\Users\maryn\Documents\ComIT\Practice\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.dll
+C:\Users\maryn\Documents\ComIT\Practice\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.pdb
+C:\Users\maryn\Documents\ComIT\Practice\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.csprojAssemblyReference.cache
+C:\Users\maryn\Documents\ComIT\Practice\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\maryn\Documents\ComIT\Practice\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.AssemblyInfoInputs.cache
+C:\Users\maryn\Documents\ComIT\Practice\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.AssemblyInfo.cs
+C:\Users\maryn\Documents\ComIT\Practice\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.dll
+C:\Users\maryn\Documents\ComIT\Practice\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.pdb
+C:\Users\maryn\Documents\ComIT\Practice\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.genruntimeconfig.cache
